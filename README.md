@@ -70,8 +70,4 @@ Realtime (optional): `php artisan reverb:start` after configuring broadcast sett
 
 Contributions are welcome. Please follow the existing code style and include tests where applicable.
 
-## License
-
-MIT
-
 
